@@ -1,0 +1,16 @@
+/* Header.css */
+body.light-theme {
+	background-color: #ffffff;
+	color: #000000;
+}
+
+body.dark-theme {
+	background-color: #1a1a1a;
+}
+
+.site-header {
+	background-color: inherit;
+	color: inherit;
+}
+
+/* Ensure that other elements are styled accordingly in dark mode */
